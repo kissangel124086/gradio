@@ -7,7 +7,7 @@ No changes to highlight.
 
 ## Bug Fixes:
 
-No changes to highlight.
+- Fix bug where http token was not accessed over websocket connections by [@freddyaboulton](https://github.com/freddyaboulton) in [PR 3735](https://github.com/gradio-app/gradio/pull/3735)
 
 ## Documentation Changes:
 
